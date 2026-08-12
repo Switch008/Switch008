@@ -1,4 +1,4 @@
-# 👾 ¡Bienvenido a la base de operaciones de Switch008! 🍕
+# 👾 ¡Bienvenido a la base de operaciones de Switch! 🍕
 
 `> INICIANDO SISTEMA...`
 `> CARGANDO PERFIL...`
