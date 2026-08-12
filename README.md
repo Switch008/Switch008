@@ -15,12 +15,5 @@
 * **Misión actual:** estudiar sobre ciberdefensa ** y no rendirme en el intento.
 * **Buffs especiales:** Curiosidad infinita, trabajo en equipo y buen sentido del humor.
 
----
-
-### 📊 Mi Progreso en la Matriz
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Switch008&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de Switch" />
-</p>
-
 
 ¡Que el código te acompañe! 🖖
