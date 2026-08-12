@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👾 ¡Bienvenido a la base de operaciones de Switch008! 🍕
 
-<!--
-**Switch008/Switch008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`> INICIANDO SISTEMA...`
+`> CARGANDO PERFIL...`
+`> ¡ÉXITO! 🎉`
 
-Here are some ideas to get you started:
+¡Hola! Soy un desarrollador y hacker en construcción con mucha energía. Creo que programar es como armar un rompecabezas gigante, así que intento ponerle buena onda a cada línea de código que escribo. ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎮 Stats de mi personaje
+* **Clase:** Desarrollador Junior / Explorador Digital 🧭
+* **Armas principales:** **[Python]**, **[Bash]** y mucha investigacion.
+* **Misión actual:** Aprender a dominar **[Tecnología que esté aprendiendo]** y no rendirme en el intento.
+* **Buffs especiales:** Curiosidad infinita, trabajo en equipo y buen sentido del humor.
+
+### 🚀 ¿Armamos una "party"?
+Si quieres hacer equipo para algún proyecto Open Source, tienes una idea loca, o simplemente quieres charlar sobre tecnología, ¡estoy disponible!
+
+
+
+¡Que el código te acompañe! 🖖
