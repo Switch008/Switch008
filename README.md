@@ -31,7 +31,7 @@ Estudiar ciberdefensa, practicar con proyectos reales y mejorar mis habilidades 
 
 ## Contacto
 - GitHub: [@Switch008](https://github.com/Switch008)  
-(Si quieres, añade correo o redes aquí)
+
 
 ## Pequeña nota final
 Buffs especiales: curiosidad infinita, trabajo en equipo y buen sentido del humor.  
