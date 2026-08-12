@@ -29,8 +29,8 @@ Estudiar ciberdefensa, practicar con proyectos reales y mejorar mis habilidades 
 - Revisa las carpetas principales (proyectos, scripts, notas).
 - Si te interesa algo, abre un issue o PR. ¡Siempre abierto a feedback!
 
-## Contacto
-- GitHub: [@Switch008](https://github.com/Switch008)  
+<!-- ## Contacto
+- GitHub: [@Switch008](https://github.com/Switch008)  -->
 
 
 ## Pequeña nota final
