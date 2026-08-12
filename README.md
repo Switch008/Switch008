@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" />
   y mucha investigación.
-* **Misión actual:** estudiar sobre ciberdefensa ** y no rendirme en el intento.
+* **Misión actual**:Estudiar sobre ciberdefensa y no rendirme en el intento.
 * **Buffs especiales:** Curiosidad infinita, trabajo en equipo y buen sentido del humor.
 
 
